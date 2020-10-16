@@ -5,6 +5,18 @@
  <div>
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 Estos dotfiles están bajo una licencia Apache
 
 Copyright [10/26th/2020] [Humberto Blanqueto Melche]
