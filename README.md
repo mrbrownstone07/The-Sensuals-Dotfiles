@@ -17,9 +17,9 @@
 # Materials
 
 #### Configure Flags in Linux (GCC, NINJA): <a href="https://github.com/The-Sensual-Dotfiles/flags-config" target="_blank">**Here**</a>
-#### Neofetch Styles: <a href="https://github.com/The-Sensual-Dotfiles/flags-config" target="_blank">**Here**</a>
-#### Custom Fetch: <a href="https://github.com/The-Sensual-Dotfiles/flags-config" target="_blank">**Here**</a>
-#### Wallpapers: <a href="https://github.com/The-Sensual-Dotfiles/flags-config" target="_blank">**Here**</a>
+#### Neofetch Styles: <a href="https://github.com/The-Sensual-Dotfiles/flags-config" target="_blank">**macOS, Windows, With Images and more**</a>
+#### Custom Fetch: <a href="https://github.com/The-Sensual-Dotfiles/flags-config" target="_blank">**Made with Love**</a>
+#### Wallpapers: <a href="https://github.com/The-Sensual-Dotfiles/flags-config" target="_blank">**All my Wallpapers you could see in my Dots**</a>
     
 # License
 
