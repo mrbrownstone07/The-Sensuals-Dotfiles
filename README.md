@@ -16,7 +16,7 @@
 
 # Materials
 
-#### Configure Flags in Linux (GCC, NINJA): <a href="https://github.com/The-Sensual-Dotfiles/flags-config target="_blank">**Here**</a>
+#### Configure Flags in Linux (GCC, NINJA): <a href="https://github.com/The-Sensual-Dotfiles/flags-config" target="_blank">**Here**</a>
 
 
 Copyright [10/26th/2020] [Humberto Blanqueto Melche]
