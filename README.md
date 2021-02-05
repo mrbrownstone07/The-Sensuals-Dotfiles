@@ -12,13 +12,15 @@
 #### My Hentai List: <a href="https://www.youtube.com/watch?v=WQRObrOqXho" target="_blank">**Top 50 Hentai this Summer**</a>
 
 # Desktops
-
+#### Gallery: <a href="https://github.com/The-Sensual-Dotfiles/flags-config" target="_blank">**Here**</a>
 
 # Materials
 
 #### Configure Flags in Linux (GCC, NINJA): <a href="https://github.com/The-Sensual-Dotfiles/flags-config" target="_blank">**Here**</a>
 #### Neofetch Styles: <a href="https://github.com/The-Sensual-Dotfiles/flags-config" target="_blank">**Here**</a>
-
+#### Custom Fetch: <a href="https://github.com/The-Sensual-Dotfiles/flags-config" target="_blank">**Here**</a>
+#### Wallpapers: <a href="https://github.com/The-Sensual-Dotfiles/flags-config" target="_blank">**Here**</a>
+    
 # License
 
 Copyright [10/26th/2020] [Humberto Blanqueto Melche]
