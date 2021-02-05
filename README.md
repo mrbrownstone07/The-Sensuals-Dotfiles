@@ -17,6 +17,7 @@
 # Materials
 
 #### Configure Flags in Linux (GCC, NINJA): <a href="https://github.com/The-Sensual-Dotfiles/flags-config" target="_blank">**Here**</a>
+#### Neofetch Styles: <a href="https://github.com/The-Sensual-Dotfiles/flags-config" target="_blank">**Here**</a>
 
 # License
 
