@@ -3,7 +3,11 @@
     	<img src="https://github.com/Hblanqueto/The-Sensuals-Dotfiles/blob/master/Images%20to%20the%20Repository/The%20Sensuals%20Dotfiles.png" align="center" height="350px">
     </h3>
  </div>
-    
+## Join my Group   
+#### Facebook Group: <a href="https://www.facebook.com/groups/3401196263237743" target="_blank">**XUnix**</a>
+#### Youtube Channel: <a href="https://www.youtube.com/channel/UC0YtVu6kMueGLIZbqnkBNkw?view_as=subscriber" target="_blank">**HBlanqueto**</a>    
+#### My Hentai List: <a href="https://www.youtube.com/watch?v=WQRObrOqXho" target="_blank">**Top 50 Hentai this Summer**</a>
+
 # Desktops
 
 
