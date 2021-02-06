@@ -23,7 +23,7 @@
  
 - **[Bash Insulter ESPAÑOL](https://github.com/The-Sensual-Dotfiles/Bash-Insulter-Spanish-Edition)**
 - **[Configure Flags](https://github.com/The-Sensual-Dotfiles/flags-config)**
-- **[Neofetch Custom Configurations](https://github.com/The-Sensual-Dotfiles/Custom-Neofetch)**
+- **[Custom Neofetch Configurations](https://github.com/The-Sensual-Dotfiles/Custom-Neofetch)**
 - **[Decorations (SCRIPTS)](https://github.com/The-Sensual-Dotfiles/Decorations)**
-- **[Wallpaper](https://github.com/The-Sensual-Dotfiles/My-Wallpapers)**
+- **[Wallpapers](https://github.com/The-Sensual-Dotfiles/My-Wallpapers)**
 
