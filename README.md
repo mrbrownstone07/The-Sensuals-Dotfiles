@@ -7,13 +7,13 @@
 
 
 # Desktops
-## AwesomeWM
+### AwesomeWM
 
-## BSPWM
+### BSPWM
 
-## Plasma
+### Plasma
 
-## Gnome
+### Gnome
 
 
 
