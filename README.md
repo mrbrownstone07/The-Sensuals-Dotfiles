@@ -18,7 +18,7 @@
 
 # Materials
 
-<img src="https://raw.githubusercontent.com/manilarome/the-glorious-screenshots/master/extra-1.webp" align="right" height="400px">
+<img src="https://github.com/Hblanqueto/The-Sensuals-Dotfiles/blob/master/Images%20to%20the%20Repository/bsd.jpg" align="right" height="480px">
 
 - Configure Flags in Linux (GCC, NINJA):<a href="https://github.com/The-Sensual-Dotfiles/flags-config" target="_blank">**Here**</a>
 - Neofetch Styles:<a href="https://github.com/The-Sensual-Dotfiles/Custom-Neofetch" target="_blank">**macOS, Windows, With Images and more**</a>
