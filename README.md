@@ -12,7 +12,7 @@
 ### BSPWM
 
 ### Plasma
-
+#### If you're gonna use my macOS Clones, I recommend you to install this **[Global Menu Libraries](https://github.com/The-Sensual-Dotfiles/Libreries-Global-Menu-KDE)**
 ### Gnome
 
 
