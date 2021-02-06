@@ -3,9 +3,8 @@
     	<img src="https://github.com/Hblanqueto/The-Sensuals-Dotfiles/blob/master/Images%20to%20the%20Repository/The%20Sensuals%20Dotfiles%20(1).png" align="center" height="350px">
     </h3>
  </div>
-- **[Dotfiles](https://github.com/Hblanqueto/The-Sensuals-Dotfiles)**
-- **[Group](https://www.facebook.com/groups/3401196263237743)**
-- **[Hentai List](https://www.youtube.com/watch?v=WQRObrOqXho)**
+</a>
+
 
 # Desktops
 ## AwesomeWM
