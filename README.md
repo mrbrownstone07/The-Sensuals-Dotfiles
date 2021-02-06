@@ -3,7 +3,9 @@
     	<img src="https://github.com/Hblanqueto/The-Sensuals-Dotfiles/blob/master/Images%20to%20the%20Repository/The%20Sensuals%20Dotfiles%20(1).png" align="center" height="350px">
     </h3>
  </div>
-
+- **[Dotfiles](https://github.com/Hblanqueto/The-Sensuals-Dotfiles)**
+- **[Group](https://www.facebook.com/groups/3401196263237743)**
+- **[Hentai List](https://www.youtube.com/watch?v=WQRObrOqXho)**
 
 # Desktops
 ## AwesomeWM
@@ -19,8 +21,10 @@
 # Materials
 <a href="https://www.freebsd.org/"> <img src="https://github.com/Hblanqueto/The-Sensuals-Dotfiles/blob/master/Images%20to%20the%20Repository/bsd.jpg" align="right" height="480px"> </a>
     
-- Configure Flags in Linux (GCC, NINJA):<a href="https://github.com/The-Sensual-Dotfiles/flags-config" target="_blank">**Here**</a>
-- Neofetch Styles:<a href="https://github.com/The-Sensual-Dotfiles/Custom-Neofetch" target="_blank">**macOS, Windows, With Images and more**</a>
-- Terminal Decoration:<a href="https://github.com/The-Sensual-Dotfiles/Decorations" target="_blank">**Made with Love**</a>
-- Wallpapers:<a href="https://github.com/The-Sensual-Dotfiles/My-Wallpapers">**All my Wallpapers you could see in my Dots**</a> 
+ 
+- **[Bash Insulter ESPAÑOL](https://github.com/The-Sensual-Dotfiles/Bash-Insulter-Spanish-Edition)**
+- **[Configure Flags](https://github.com/The-Sensual-Dotfiles/flags-config)**
+- **[Neofetch Custom Configurations](https://github.com/The-Sensual-Dotfiles/Custom-Neofetch)**
+- **[Decorations (SCRIPTS)](https://github.com/The-Sensual-Dotfiles/Decorations)**
+- **[Wallpaper](https://github.com/The-Sensual-Dotfiles/My-Wallpapers)**
 
