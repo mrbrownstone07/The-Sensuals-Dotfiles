@@ -1,6 +1,6 @@
 <div align="center">
     <h3>
-    	<img src="https://github.com/Hblanqueto/The-Sensuals-Dotfiles/blob/master/Images%20to%20the%20Repository/The%20Sensuals%20Dotfiles%20(1).png" align="center" height="150px">
+    	<img src="https://github.com/Hblanqueto/The-Sensuals-Dotfiles/blob/master/Images%20to%20the%20Repository/The%20Sensuals%20Dotfiles%20(1).png" align="center" height="450px">
     </h3>
  </div>
 </a>
@@ -8,7 +8,7 @@
 
 
 # Desktops
-<a href="https://github.com/victor-bayas/simplyarch"> <img src="https://github.com/Hblanqueto/The-Sensuals-Dotfiles/blob/master/Images%20to%20the%20Repository/template.png" align="center" height="480px"> </a>
+<a href="https://github.com/victor-bayas/simplyarch"> <img src="https://github.com/Hblanqueto/The-Sensuals-Dotfiles/blob/master/Images%20to%20the%20Repository/template.png" align="center" height="180px"> </a>
 
 ### AwesomeWM
 
