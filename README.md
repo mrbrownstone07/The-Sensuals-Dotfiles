@@ -1,4 +1,4 @@
-| Linear |
+| Welcome  |
 | --- |
 | ![screenshot](https://raw.githubusercontent.com/manilarome/the-glorious-screenshots/master/linear.webp) |
 
