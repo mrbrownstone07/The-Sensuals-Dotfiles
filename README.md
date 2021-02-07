@@ -23,9 +23,7 @@
 
 
 
-# Materials
-<a href="https://www.freebsd.org/"> <img src="https://github.com/Hblanqueto/The-Sensuals-Dotfiles/blob/master/Images%20to%20the%20Repository/bsd.png" align="right" height="480px"> </a>
-    
+# Materials   
  
 - **[Bash Insulter ESPAÑOL](https://github.com/The-Sensual-Dotfiles/Bash-Insulter-Spanish-Edition)**
 - **[Configure Flags](https://github.com/The-Sensual-Dotfiles/flags-config)**
