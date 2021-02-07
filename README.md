@@ -13,19 +13,19 @@
 # Desktops
 
 ## AwesomeWM
-
-## BSPWM
+***Coming Soon***
 
 ## Plasma
  | **[macOS Clone](https://github.com/The-Sensual-Dotfiles/Bash-Insulter-Spanish-Edition)**|
  | --- |
  |  <a href="https://www.freebsd.org/"> ![screenshot](https://github.com/The-Sensual-Dotfiles/Plasma-Catalina-Rice/blob/main/Pictures/01.png) |
-## Gnome
 
+## Gnome
+***Coming Soon***
 
 
 # Materials   
- 
+
 - **[Bash Insulter ESPAÑOL](https://github.com/The-Sensual-Dotfiles/Bash-Insulter-Spanish-Edition)**
 - **[Configure Flags](https://github.com/The-Sensual-Dotfiles/flags-config)**
 - **[Custom Neofetch Configurations](https://github.com/The-Sensual-Dotfiles/Custom-Neofetch)**
