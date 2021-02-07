@@ -17,7 +17,7 @@
 ### BSPWM
 
 ### Plasma
-#### If you're gonna use my macOS Clones, I recommend you to install this **[Global Menu Libraries](https://github.com/The-Sensual-Dotfiles/Libreries-Global-Menu-KDE)**,  **[This Fonts](https://github.com/The-Sensual-Dotfiles/macOS-Fonts)**,  **[and maybe use this beautiful Wallpapers](https://github.com/The-Sensual-Dotfiles/macOS-Wallpapers)**
+- **[macOS Clone](https://github.com/The-Sensual-Dotfiles/Bash-Insulter-Spanish-Edition)**
 ### Gnome
 
 
