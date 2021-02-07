@@ -1,9 +1,7 @@
-<div align="center">
-    <h3>
-    	<img src="https://github.com/Hblanqueto/The-Sensuals-Dotfiles/blob/master/Images%20to%20the%20Repository/The%20Sensuals%20Dotfiles%20(1).png" align="center" height="450px">
-    </h3>
- </div>
-</a>
+| Linear |
+| --- |
+| ![screenshot](https://raw.githubusercontent.com/manilarome/the-glorious-screenshots/master/linear.webp) |
+
 
 
 
