@@ -12,13 +12,13 @@
 
 # Desktops
 
-### AwesomeWM
+## AwesomeWM
 
-### BSPWM
+## BSPWM
 
-### Plasma
+## Plasma
 - **[macOS Clone](https://github.com/The-Sensual-Dotfiles/Bash-Insulter-Spanish-Edition)**
-### Gnome
+## Gnome
 
 
 
