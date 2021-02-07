@@ -1,6 +1,6 @@
 | Welcome  |
 | --- |
-| ![screenshot](https://raw.githubusercontent.com/manilarome/the-glorious-screenshots/master/linear.webp) |
+| ![screenshot](https://github.com/Hblanqueto/The-Sensuals-Dotfiles/blob/master/Images%20to%20the%20Repository/Bg.png) |
 
 
 
