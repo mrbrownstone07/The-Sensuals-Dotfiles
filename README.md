@@ -16,7 +16,7 @@
 ***Coming Soon***
 
 ## Plasma
- | **[macOS Clone](https://github.com/The-Sensual-Dotfiles/Bash-Insulter-Spanish-Edition)**|
+ | **[macOS Clone](https://github.com/The-Sensual-Dotfiles/Plasma-Catalina-Rice)**|
  | --- |
  |  <a href="https://github.com/The-Sensual-Dotfiles/Plasma-Catalina-Rice"> ![screenshot](https://github.com/The-Sensual-Dotfiles/Plasma-Catalina-Rice/blob/main/Pictures/01.png) |
 
