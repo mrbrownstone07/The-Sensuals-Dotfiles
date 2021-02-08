@@ -4,11 +4,11 @@
 | ![screenshot](https://github.com/Hblanqueto/The-Sensuals-Dotfiles/blob/master/Images%20to%20the%20Repository/Bg.png) |
 
 <div align="center">
-    <h3>
+
 <a href="https://github.com/victor-bayas/simplyarch"> <img src="https://github.com/Hblanqueto/The-Sensuals-Dotfiles/blob/master/Images%20to%20the%20Repository/template.png" align="center" height="100px" weight="450"> </a>
-</h3>
+
  </div>
-</a>
+
 
 
 # Desktops
@@ -26,10 +26,6 @@
 
 
 # Materials   
-
-
-<a href="https://www.gentoo.org/"> <img src="https://github.com/Hblanqueto/The-Sensuals-Dotfiles/blob/master/Images%20to%20the%20Repository/Gentoo.jpg" align="right" height="400px"></a> Play
-
 
 - **[Bash Insulter ESPAÑOL](https://github.com/The-Sensual-Dotfiles/Bash-Insulter-Spanish-Edition)**
 - **[Configure Flags](https://github.com/The-Sensual-Dotfiles/flags-config)**
