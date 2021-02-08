@@ -27,7 +27,7 @@
 # Materials   
 <div align="right">
     <h3>
-<a href="https://github.com/victor-bayas/simplyarch"> <img src="https://github.com/Hblanqueto/The-Sensuals-Dotfiles/blob/master/Images%20to%20the%20Repository/template.png" align="center" height="100px"> </a>
+<a href="https://github.com/Hblanqueto/The-Sensuals-Dotfiles/blob/master/Images%20to%20the%20Repository/Gentoo.jpg" align="right" height="100px"> </a>
 </h3>
  </div>
 </a>
