@@ -26,7 +26,8 @@
 
 # Materials   
 
-<a href="https://github.com/Hblanqueto/The-Sensuals-Dotfiles/blob/master/Images%20to%20the%20Repository/Gentoo.jpg" align="right" height="100px"> </a>
+
+<a href="https://www.gentoo.org/"> <img src="https://github.com/Hblanqueto/The-Sensuals-Dotfiles/blob/master/Images%20to%20the%20Repository/Gentoo.jpg" align="right" height="100px"> </a>
 
 
 - **[Bash Insulter ESPAÑOL](https://github.com/The-Sensual-Dotfiles/Bash-Insulter-Spanish-Edition)**
