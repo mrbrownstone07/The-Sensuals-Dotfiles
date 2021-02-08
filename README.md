@@ -4,13 +4,6 @@
 | --- |
 | ![screenshot](https://github.com/Hblanqueto/The-Sensuals-Dotfiles/blob/master/Images%20to%20the%20Repository/Bg.png) |
 
-<div align="center">
-
-<a href="https://github.com/victor-bayas/simplyarch"> <img src="https://github.com/Hblanqueto/The-Sensuals-Dotfiles/blob/master/Images%20to%20the%20Repository/template.png" align="center" height="100px"> </a>
-
- </div>
-
-
 
 # Desktops 💻
 
@@ -34,3 +27,9 @@
 - **[Decorations (SCRIPTS)](https://github.com/The-Sensual-Dotfiles/Decorations)**
 - **[My personals Wallpapers](https://github.com/The-Sensual-Dotfiles/My-Wallpapers)**
 - **[Wallpapers from my Facebook community](https://github.com/XUnix-Corp/Wallpapers-Zone)**
+
+<div align="center">
+
+<a href="https://github.com/victor-bayas/simplyarch"> <img src="https://github.com/Hblanqueto/The-Sensuals-Dotfiles/blob/master/Images%20to%20the%20Repository/template.png" align="center" height="100px"> </a>
+
+ </div>
