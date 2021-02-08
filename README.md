@@ -11,7 +11,7 @@
 
 
 
-# Desktops
+# Desktops 💻
 
 ## AwesomeWM
 ***Coming Soon***
@@ -25,7 +25,7 @@
 ***Coming Soon***
 
 
-# Materials   
+# Materials 📂
 
 - **[Bash Insulter ESPAÑOL](https://github.com/The-Sensual-Dotfiles/Bash-Insulter-Spanish-Edition)**
 - **[Configure Flags](https://github.com/The-Sensual-Dotfiles/flags-config)**
