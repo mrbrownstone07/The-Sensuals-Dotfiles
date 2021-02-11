@@ -17,7 +17,7 @@
  
  |  **[Windows 10 Clone](https://github.com/The-Sensual-Dotfiles/Windows-10-Plasma)** |
  | --- |
- |  |
+ | <a href="https://github.com/The-Sensual-Dotfiles/Windows-10-Plasma"> ![screenshot](https://github.com/The-Sensual-Dotfiles/Windows-10-Plasma/blob/main/Pictures/04.jpg) |
 
 ## Gnome
 ***Coming Soon***
