@@ -25,7 +25,7 @@
 
 # Materials 📂
 
-| [- **[Decorations (SCRIPTS)](https://github.com/The-Sensual-Dotfiles/Decorations)**] |
+| **[Decorations (SCRIPTS)](https://github.com/The-Sensual-Dotfiles/Decorations)**] |
 | --- |
 | <a href="https://github.com/The-Sensual-Dotfiles/Decorations"> ![screenshot](https://github.com/The-Sensual-Dotfiles/Decorations/blob/main/Examples/Examples.png) | 
 
