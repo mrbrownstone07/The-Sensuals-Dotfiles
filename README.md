@@ -31,6 +31,7 @@
 
 - **[Bash Insulter ESPAÑOL](https://github.com/The-Sensual-Dotfiles/Bash-Insulter-Spanish-Edition)**
 - **[Configure Flags](https://github.com/The-Sensual-Dotfiles/flags-config)**
+
 | **[Custom Neofetch Configurations](https://github.com/The-Sensual-Dotfiles/Custom-Neofetch)** |
 | --- |
 | |
