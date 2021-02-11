@@ -25,10 +25,13 @@
 
 # Materials 📂
 
+| [- **[Decorations (SCRIPTS)](https://github.com/The-Sensual-Dotfiles/Decorations)**] |
+| --- |
+| <a href="https://github.com/The-Sensual-Dotfiles/Decorations"> ![screenshot](https://github.com/The-Sensual-Dotfiles/Decorations/blob/main/Examples/Examples.png) | 
+
 - **[Bash Insulter ESPAÑOL](https://github.com/The-Sensual-Dotfiles/Bash-Insulter-Spanish-Edition)**
 - **[Configure Flags](https://github.com/The-Sensual-Dotfiles/flags-config)**
 - **[Custom Neofetch Configurations](https://github.com/The-Sensual-Dotfiles/Custom-Neofetch)**
-- **[Decorations (SCRIPTS)](https://github.com/The-Sensual-Dotfiles/Decorations)**
 - **[My personals Wallpapers](https://github.com/The-Sensual-Dotfiles/My-Wallpapers)**
 - **[Wallpapers from my Facebook community](https://github.com/XUnix-Corp/Wallpapers-Zone)**
 
