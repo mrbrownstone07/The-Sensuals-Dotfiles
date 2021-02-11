@@ -34,7 +34,7 @@
 
 | **[Custom Neofetch Configurations](https://github.com/The-Sensual-Dotfiles/Custom-Neofetch)** |
 | --- |
-| <a href="https://github.com/The-Sensual-Dotfiles/Custom-Neofetch"> ![screenshot](https://github.com/The-Sensual-Dotfiles/Custom-Neofetch/blob/main/Examples/00.png) |
+| <a href="https://github.com/The-Sensual-Dotfiles/Custom-Neofetch"> ![screenshot](https://github.com/The-Sensual-Dotfiles/Custom-Neofetch/blob/main/Examples/03.png) |
 
 - **[My personals Wallpapers](https://github.com/The-Sensual-Dotfiles/My-Wallpapers)**
 - **[Wallpapers from my Facebook community](https://github.com/XUnix-Corp/Wallpapers-Zone)**
