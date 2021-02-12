@@ -15,7 +15,7 @@
  | --- |
  |  <a href="https://github.com/The-Sensual-Dotfiles/Plasma-Catalina-Rice"> ![screenshot](https://github.com/The-Sensual-Dotfiles/Plasma-Catalina-Rice/blob/main/Pictures/01.png) |
  
- |  **[Windows 10 Clone](https://github.com/The-Sensual-Dotfiles/Windows-10-Plasma)** |
+ |  **[Windows 10 Clone "IN PROGRESS"](https://github.com/The-Sensual-Dotfiles/Windows-10-Plasma)** |
  | --- |
  | <a href="https://github.com/The-Sensual-Dotfiles/Windows-10-Plasma"> ![screenshot](https://github.com/The-Sensual-Dotfiles/Windows-10-Plasma/blob/main/Pictures/04.jpg) |
 
