@@ -36,7 +36,10 @@
 | --- |
 | <a href="https://github.com/The-Sensual-Dotfiles/Custom-Neofetch"> ![screenshot](https://github.com/The-Sensual-Dotfiles/Custom-Neofetch/blob/main/Examples/03.png) |
 
-- **[My personals Wallpapers](https://github.com/The-Sensual-Dotfiles/My-Wallpapers)**
+| **[My Favorites Wallpapers](a href="https://github.com/The-Sensual-Dotfiles/My-Wallpapers)** |
+| --- |
+| <a href="https://github.com/The-Sensual-Dotfiles/My-Wallpapers"> ![screenshot](https://github.com/The-Sensual-Dotfiles/My-Wallpapers/blob/main/No%20Russians%20TF2.png) |
+
 - **[Wallpapers from my Facebook community](https://github.com/XUnix-Corp/Wallpapers-Zone)**
 
 <div align="center">
