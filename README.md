@@ -33,7 +33,9 @@ The term ‘rice’ is used to describe a person’s unix deskton where ‘ricin
 
 - **[Bash Insulter ESPAÑOL](https://github.com/The-Sensual-Dotfiles/Bash-Insulter-Spanish-Edition)**
 
-- **[Configure Flags](https://github.com/The-Sensual-Dotfiles/flags-config)**
+| **[Configure Flags](https://github.com/The-Sensual-Dotfiles/flags-config)** |
+| --- | 
+|![screenshot](https://github.com/The-Sensual-Dotfiles/flags-config/blob/main/MauConfig.jp)  | 
 
 | **[Custom Neofetch Configurations](https://github.com/The-Sensual-Dotfiles/Custom-Neofetch)** |
 | --- |
