@@ -10,12 +10,15 @@ The term ‘rice’ is used to describe a person’s unix deskton where ‘ricin
 # Desktops 💻
 
 ## AwesomeWM
-***Coming Soon***
+| **[Basic AwesomeWM Configuration](https://github.com/The-Sensual-Dotfiles/AwesomeWM-for-Beginners)** | 
+| --- |
+| <a href="https://github.com/The-Sensual-Dotfiles/Plasma-Catalina-Rice"> ![screenshot](https://github.com/The-Sensual-Dotfiles/AwesomeWM-for-Beginners/blob/main/Example/Example%20.png) |
+
 
 ## Plasma
  | **[macOS Clone](https://github.com/The-Sensual-Dotfiles/Plasma-Catalina-Rice)**|
  | --- |
- |  <a href="https://github.com/The-Sensual-Dotfiles/Plasma-Catalina-Rice"> ![screenshot](https://github.com/The-Sensual-Dotfiles/Plasma-Catalina-Rice/blob/main/Pictures/01.png) |
+ |  <a href="https://github.com/The-Sensual-Dotfiles/AwesomeWM-for-Beginners"> ![screenshot](https://github.com/The-Sensual-Dotfiles/Plasma-Catalina-Rice/blob/main/Pictures/01.png) |
  
  |  **[Windows 10 Clone "IN PROGRESS"](https://github.com/The-Sensual-Dotfiles/Windows-10-Plasma)** |
  | --- |
