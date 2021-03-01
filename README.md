@@ -40,7 +40,9 @@
 | --- |
 | <a href="https://github.com/The-Sensual-Dotfiles/My-Wallpapers"> ![screenshot](https://github.com/The-Sensual-Dotfiles/My-Wallpapers/blob/main/No%20Russians%20TF2.png) |
 
-- **[Wallpapers from my Facebook community](https://github.com/XUnix-Corp/Wallpapers-Zone)**
+| **[Wallpapers from my Facebook community](https://github.com/XUnix-Corp/Wallpapers-Zone)** |
+| --- |
+| <a href="https://github.com/XUnix-Corp/Wallpapers-Zone"> ![screenshot](https://github.com/XUnix-Corp/Wallpapers/blob/master/Materiales%20para%20el%20README%20(NO%20MODIFICAR)/WAllpaper%20Zone.png) | 
 
 <div align="center">
 
