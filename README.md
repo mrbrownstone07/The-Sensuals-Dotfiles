@@ -1,5 +1,12 @@
 # Welcome to my Heaven
 ***¡Te encantaría este lugar! Es disneylandia para los degenerados***
+
+## Contact Me 👥
+
+- Group: https://www.facebook.com/groups/xunix.welcome.to.the.heaven
+- Telegram Group: https://t.me/XUnixCommunity
+
+
 |  |
 | --- |
 | ![screenshot](https://github.com/Hblanqueto/The-Sensuals-Dotfiles/blob/master/Images%20to%20the%20Repository/Bg.png) |
