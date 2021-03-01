@@ -4,6 +4,8 @@
 | --- |
 | ![screenshot](https://github.com/Hblanqueto/The-Sensuals-Dotfiles/blob/master/Images%20to%20the%20Repository/Bg.png) |
 
+## So What is Rice / Ricing? 🍙
+The term ‘rice’ is used to describe a person’s unix deskton where ‘ricing’ is when someone is custom their desktop such as the icons, panels, or system interface. When it comes to ricing a tiling window manager though, the ricing of a user’s system becomes much more involved. Basic things such as the panel bar and application launcher must be configured by the user.
 
 # Desktops 💻
 
@@ -30,6 +32,7 @@
 | <a href="https://github.com/The-Sensual-Dotfiles/Decorations"> ![screenshot](https://github.com/The-Sensual-Dotfiles/Decorations/blob/main/Examples/Examples.png) | 
 
 - **[Bash Insulter ESPAÑOL](https://github.com/The-Sensual-Dotfiles/Bash-Insulter-Spanish-Edition)**
+
 - **[Configure Flags](https://github.com/The-Sensual-Dotfiles/flags-config)**
 
 | **[Custom Neofetch Configurations](https://github.com/The-Sensual-Dotfiles/Custom-Neofetch)** |
