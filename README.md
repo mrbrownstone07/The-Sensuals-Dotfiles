@@ -41,12 +41,6 @@ The term ‘rice’ is used to describe a person’s unix deskton where ‘ricin
 | --- |
 | <a href="https://github.com/The-Sensual-Dotfiles/Decorations"> ![screenshot](https://github.com/The-Sensual-Dotfiles/Decorations/blob/main/Examples/Examples.png) | 
 
-- **[Bash Insulter ESPAÑOL](https://github.com/The-Sensual-Dotfiles/Bash-Insulter-Spanish-Edition)**
-
-| **[Configure Flags](https://github.com/The-Sensual-Dotfiles/flags-config)** |
-| --- | 
-|![screenshot](https://github.com/The-Sensual-Dotfiles/flags-config/blob/main/MauConfig.jpg)  | 
-
 | **[Custom Neofetch Configurations](https://github.com/The-Sensual-Dotfiles/Custom-Neofetch)** |
 | --- |
 | <a href="https://github.com/The-Sensual-Dotfiles/Custom-Neofetch"> ![screenshot](https://github.com/The-Sensual-Dotfiles/Custom-Neofetch/blob/main/Examples/03.png) |
@@ -58,6 +52,11 @@ The term ‘rice’ is used to describe a person’s unix deskton where ‘ricin
 | **[Wallpapers from my Facebook community](https://github.com/XUnix-Corp/Wallpapers-Zone)** |
 | --- |
 | <a href="https://github.com/XUnix-Corp/Wallpapers-Zone"> ![screenshot](https://github.com/XUnix-Corp/Wallpapers/blob/master/Materiales%20para%20el%20README%20(NO%20MODIFICAR)/WAllpaper%20Zone.png) | 
+ 
+ 
+| **[Configure Flags](https://github.com/The-Sensual-Dotfiles/flags-config)** |
+| --- | 
+|![screenshot](https://github.com/The-Sensual-Dotfiles/flags-config/blob/main/MauConfig.jpg)  | 
 
 <div align="center">
 
