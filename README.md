@@ -19,7 +19,7 @@ The term ‘rice’ is used to describe a person’s unix deskton where ‘ricin
 ## AwesomeWM
 | **[Basic AwesomeWM Configuration](https://github.com/The-Sensual-Dotfiles/AwesomeWM-for-Beginners)** | 
 | --- |
-| <a href="https://github.com/The-Sensual-Dotfiles/Plasma-Catalina-Rice"> ![screenshot](https://github.com/The-Sensual-Dotfiles/AwesomeWM-for-Beginners/blob/main/Example/Example%20.png) |
+| <a href="https://github.com/The-Sensual-Dotfiles/AwesomeWM-for-Beginners"> ![screenshot](https://github.com/The-Sensual-Dotfiles/AwesomeWM-for-Beginners/blob/main/Example/Example%20.png) |
 
 
 ## Plasma
