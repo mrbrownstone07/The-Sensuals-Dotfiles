@@ -23,6 +23,10 @@ The term ‘rice’ is used to describe a person’s unix deskton where ‘ricin
 
 
 ## Plasma
+| **[BigSur Clone](https://github.com/The-Sensual-Dotfiles/BigSur-Clone)**|
+ | --- |
+ |  <a href=""> ![screenshot](https://github.com/The-Sensual-Dotfiles/BigSur-Clone/blob/main/Screenshots/01.png) |
+ 
  | **[macOS Clone](https://github.com/The-Sensual-Dotfiles/Plasma-Catalina-Rice)**|
  | --- |
  |  <a href="https://github.com/The-Sensual-Dotfiles/AwesomeWM-for-Beginners"> ![screenshot](https://github.com/The-Sensual-Dotfiles/Plasma-Catalina-Rice/blob/main/Pictures/01.png) |
